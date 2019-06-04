@@ -2,15 +2,6 @@
 // Size (s) and space between lines (sp)
 float s = 700;
 int sp = 10;
-// 1° Quad
-float t1 = 350;
-float t2 = 350;
-// 2° Quad
-float t3 = 0;
-float t4 = 350;
-// 4° Quad
-float t7 = 0;
-float t8 = 350;
 
 Quad[] quads = new Quad[4];
 

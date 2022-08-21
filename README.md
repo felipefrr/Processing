@@ -1,5 +1,5 @@
 # Processing
-Processing is a software sketchbook and a language for learning how to code within the context of the visual arts
+Processing is a software sketchbook and a language for learning how to code within the context of the visual arts. This is a repository for my art portfolio of Processing art.
 
 ## BasicStar
 It's a star made with lines, I really recommend to try drawing it on a paper first, so gratifying.
